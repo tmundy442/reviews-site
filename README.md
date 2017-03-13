@@ -1,0 +1,1 @@
+This is a Spring Boot/MVC application that lists reviews of recent movies. Running the application allows the user to open the content in a browser window at localhost 8080. There is a list of reviews, and clicking the links will take the user to a page of that review where the title, category, movie poster and review can be viewed.

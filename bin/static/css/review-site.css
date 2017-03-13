@@ -1,0 +1,22 @@
+body{
+
+	background: url(../images/12.jpg);
+	text-align: center;
+	height:1250px;
+	width: 1300px;
+}
+
+h1{
+	font-size: 60px;
+	color:darkkhaki;
+}
+
+ul{
+	list-style-type: none;
+	color: darksalmon;
+	font-size: 20px;
+}
+
+a:visited{
+	color: darksalmon;
+}
